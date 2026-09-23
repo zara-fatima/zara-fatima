@@ -11,9 +11,9 @@
 **Full Name:** Zara Fatima  
 **University:** University of the Punjab  
 
-I am a **Data Science student** who loves to code and explore new technologies.  
-I enjoy solving logical problems, learning from real-world data, and building small projects that make a difference.  
-🌱 *Currently learning Python and Data Structures and Algorithms.*
+Data Science student, coder, and lifelong learner. I like figuring out how things work, experimenting with new technologies, and turning random ideas into actual projects. I’m learning as I go, one problem, one project, and one “let me just try this” at a time.
+  
+*Currently learning Java and Machine Learning*
 
 ---
 
@@ -42,7 +42,7 @@ I enjoy solving logical problems, learning from real-world data, and building sm
 
 | Project | Description | Tools Used |
 |----------|--------------|-------------|
-| C++ Programs | Small programs for practicing loops, arrays, and functions | C++ |
+| C++ Programs |
 | HTML Practice | Web pages created while learning HTML | HTML |
 | Python Basics | Simple exercises to learn Python syntax | Python |
 
