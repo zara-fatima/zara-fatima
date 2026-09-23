@@ -19,10 +19,11 @@ I enjoy solving logical problems, learning from real-world data, and building sm
 
 ## 🛠️ Skills  
 
-- C++ 💻  
-- HTML 🌐  
-- Python 🐍    
-- Git & GitHub 🧩  
+- C++
+- SQL (Oracle, DB Browser, SQLite, SQL Server)   
+- HTML   
+- Python     
+- Git & GitHub   
 
 ---
 
@@ -50,17 +51,16 @@ I enjoy solving logical problems, learning from real-world data, and building sm
 ## ✨ My Goals  
 
 - [x] Learn Markdown  
-- [x] Create my GitHub profile README  
-- [ ] Build a portfolio website  
-- [ ] Master Data Visualization  
-- [ ] Contribute to an open-source project  
-- [ ] Learn Machine Learning  
+- [x] Create my GitHub profile README   
+- [x] Master Data Visualization    
+- [x] Learn Machine Learning
+- [ ] Contribute to an open-source project
 
 ---
 
 ## 💬 Motto  
 
-> “Stay curious, keep coding, and never stop learning.”
+> “Confused, but never quitting.”
 
 ---
 
