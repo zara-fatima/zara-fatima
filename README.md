@@ -2,14 +2,14 @@
 
 ![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-> *"Code is like magic — when you write it well, it makes impossible things happen."*
+> *"A winding path, a steady pace."*
 
 ---
 
 ## 🧭 About Me  
 
 **Full Name:** Zara Fatima  
-**University:** University of the Punjab  
+**University:** PUCIT - University of the Punjab  
 
 Data Science student, coder, and lifelong learner. I like figuring out how things work, experimenting with new technologies, and turning random ideas into actual projects. I’m learning as I go, one problem, one project, and one “let me just try this” at a time.
   
@@ -42,7 +42,7 @@ Data Science student, coder, and lifelong learner. I like figuring out how thing
 
 | Project | Description | Tools Used |
 |----------|--------------|-------------|
-| C++ Programs |
+| C++ Programs | Tic Tac Toe Game | C++ |
 | HTML Practice | Web pages created while learning HTML | HTML |
 | Python Basics | Simple exercises to learn Python syntax | Python |
 
